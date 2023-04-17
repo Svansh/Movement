@@ -1,0 +1,7 @@
+Drivers/
+.settings/
+RE beta 1.0.0.ioc
+STM32F103C8TX_FLASH.id
+.cproject
+.mxproject
+.project
